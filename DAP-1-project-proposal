@@ -1,0 +1,53 @@
+# Project Proposal and Problem Statement
+
+## Project Title
+Development of a Digital Avatar Platform for Advertising Video Production and Campaign Personalization
+
+## Team
+- Karina Anvarbekova
+- Fariza Ismagambetova
+
+Supervisor: Shyngys Alshynov
+
+## Problem Statement
+Advertising video production requires script preparation, recording, editing and content review. Preparing different videos for several audiences or languages can require additional work.
+
+The project investigates whether digital avatars can support regular advertising video production and campaign personalization.
+
+The platform is proposed as a possible solution. Its usefulness and potential time savings still need to be evaluated.
+
+## Target Users
+The primary users are public relations staff who prepare announcements and promotional videos.
+
+The secondary users are Media Technologies students who explore creative digital content production.
+
+## Project Aim
+To develop and evaluate a digital avatar platform based on user needs and advertising production practices.
+
+## Objectives
+1. Analyse existing advertising video production practices.
+2. Conduct three to five documented discussions with potential users.
+3. Review survey findings and scientific research.
+4. Define and prioritise system requirements.
+5. Develop a prototype and evaluate its usefulness.
+
+## Research Questions
+1. Which production stages require the most effort?
+2. When are different versions of advertising messages needed?
+3. Which avatar, speech and language characteristics affect video quality?
+4. Which features would make the platform useful?
+
+## Preliminary Scope
+The project focuses on short promotional videos, editable scripts, avatar selection, campaign versions and human review.
+
+Training new video generation models, building a complete professional video editor and automatic advertising targeting are outside the proposed scope.
+
+## Expected Outcomes
+- Clear problem definition
+- Documented user needs
+- Prioritised requirements
+- Prototype design and later implementation
+- Evaluation of the proposed workflow
+
+## Current Status
+The project proposal and preliminary scope have been documented. Further research and implementation are planned.
