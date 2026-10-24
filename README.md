@@ -42,7 +42,7 @@ The project does not aim to build a general-purpose AI video generator from scra
 | -------------------- | ------------------------------------------------------------------------------------------------------- |
 | Fariza Ismagambetova | Requirements specification, design, verification and evaluation planning, project management, and risks |
 | Karina Anvarbekova   | Project proposal, literature review, existing-platform comparison, and technology comparison            |
-| Supervisor           | [Supervisor name]                                                                                       |
+| Supervisor           | [Shyngys Alshynov]                                                                                       |
 
 ## Current status
 
@@ -73,7 +73,7 @@ Software technologies selected for any implementation or evaluation work: [Add t
 
 ## Project planning
 
-YouTrack project: 
+YouTrack project: https://anvarbekovakarina.youtrack.cloud/agiles/204-1/current
 
 
 
